@@ -1,0 +1,28 @@
+body {
+  margin-top: 105px;
+   }
+
+.navbar {
+  box-shadow: 2px 2px 5px #00cc44;
+  background: #fff; }
+  .navbar .nav-item {
+    font-size: 1.2rem;
+    padding-right: 20px; }
+
+.coninfo {
+  padding-top: 15px; }
+  .coninfo span {
+    padding-right: 50px; }
+
+#showcase {
+  position: relative;
+  background-color: #00cc44;
+  min-height: 40px; }
+
+iframe {
+  max-width: 560px;
+  max-height: 315px; }
+
+.second{
+background-color: #8c8989;
+}
